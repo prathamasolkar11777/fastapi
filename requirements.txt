@@ -6,4 +6,13 @@ python-multipart==0.0.9
 ultralytics==8.1.27
 torch==2.2.0
 pillow==10.2.0
-numpy==1.26.4 
+numpy==1.26.4
+tensorflow
+torch
+opencv-python
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+streamlit
